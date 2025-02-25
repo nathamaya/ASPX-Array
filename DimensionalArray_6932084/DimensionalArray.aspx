@@ -13,11 +13,7 @@
             <asp:Label ID="Label1" runat="server" Text="Create Category Array"></asp:Label>
             <br />
         </div>
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Create Array" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click1" Text="Create Array" />
     </form>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
+    </body>
 </html>

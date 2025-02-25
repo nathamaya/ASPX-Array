@@ -7,7 +7,15 @@
       "RelativeMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|solutionrelative:dimensionalarray_6932084\\dimensionalarray.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\dimensionalarray_6932084\\dimensionalarray_6932084\\dimensionalarray.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\dimensionalarray_6932084\\dimensionalarray_6932084\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|solutionrelative:dimensionalarray_6932084\\categoryusearraysessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\dimensionalarray_6932084\\dimensionalarray_6932084\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|solutionrelative:dimensionalarray_6932084\\categoryusearraysessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\dimensionalarray_6932084\\dimensionalarray.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{79749656-6703-408F-9BCC-17F2C41945D3}|DimensionalArray_6932084\\DimensionalArray_6932084.csproj|solutionrelative:dimensionalarray_6932084\\dimensionalarray.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryUseArraySessionVariables.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx.cs",
+              "RelativeDocumentMoniker": "DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx.cs",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx.cs",
+              "RelativeToolTip": "DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:16:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryUseArraySessionVariables.aspx",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx",
+              "RelativeDocumentMoniker": "DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx",
+              "RelativeToolTip": "DimensionalArray_6932084\\CategoryUseArraySessionVariables.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T21:15:15.52Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +62,20 @@
               "RelativeDocumentMoniker": "DimensionalArray_6932084\\DimensionalArray.aspx.cs",
               "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\DimensionalArray_6932084\\DimensionalArray.aspx.cs",
               "RelativeToolTip": "DimensionalArray_6932084\\DimensionalArray.aspx.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBwAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwBgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T21:08:08.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DimensionalArray.aspx",
               "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\DimensionalArray_6932084\\DimensionalArray.aspx",
               "RelativeDocumentMoniker": "DimensionalArray_6932084\\DimensionalArray.aspx",
               "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\DimensionalArray_6932084\\DimensionalArray_6932084\\DimensionalArray.aspx",
               "RelativeToolTip": "DimensionalArray_6932084\\DimensionalArray.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-02-25T21:07:33.671Z",
               "EditorCaption": ""
